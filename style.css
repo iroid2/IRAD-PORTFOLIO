@@ -5,9 +5,12 @@
     box-sizing: border-box;
 }
 body{
-    background: url(/assets/bod\ bg.jpg);
+    background: url(./assets/bodbg.jpg);
     background-size: cover;
     width: 100vw;
+}
+html{
+    scroll-behavior: smooth;
 }
 a{
     text-decoration: none;
