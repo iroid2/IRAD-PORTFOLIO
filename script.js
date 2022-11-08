@@ -32,3 +32,4 @@ function cb(entries){
     // }
     observer.observe(sectn3)
  })
+ 
